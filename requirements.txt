@@ -55,7 +55,7 @@ jupyterlab_server==2.27.3
 jupyterlab_widgets==3.0.13
 kiwisolver==1.4.8
 MarkupSafe==3.0.2
-matplotlib==3.10.1
+matplotlib==3.8.2
 matplotlib-inline==0.1.7
 mccabe==0.7.0
 mistune==3.1.2
@@ -113,6 +113,7 @@ tomlkit==0.13.2
 tornado==6.4.2
 tqtk_lib==0.1.1
 traitlets==5.14.3
+triple-barrier==0.5.6rc0
 types-python-dateutil==2.9.0.20241206
 typing_extensions==4.12.2
 tzdata==2024.1
